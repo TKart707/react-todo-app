@@ -1,5 +1,5 @@
 <h1>React Todo App</h1>
-
+<img src="/todo-screenshot.jpg"/>
 <ul>
     <li><a href="#overview">Overview</a></li>
     <ul>
